@@ -1,0 +1,11 @@
+Safrron,0.0,0.0,Celadon,Lavender,Cerulean,Vermilion
+Celadon,-1.0,0.0,Safrron
+Lavender,1.0,0.0,Safrron
+Cerulean,0.0,1.0,Safrron
+Vermilion,0.0,-1.0,Safrron
+Pewter,-3.0,1.0,Planalto Indigo,Viridian
+Planalto Indigo,-4.0,1.0,Pewter
+Viridian,-3.0,0.0,Pewter,Vila Pallet
+Vila Pallet,-3.0,1.0,Viridian,Ilha Cinnabar
+Ilha Cinnabar,-3.0,2.0,Vila Pallet
+Fuschia,-1.0,-2.0

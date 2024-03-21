@@ -1,0 +1,12 @@
+Mar do Norte,-2.0,2.0,Augusta Treverorum
+Augusta Treverorum,-2.0,1.0,Mar do Norte,Carnunto
+Carnunto,-1.0,1.0,Peach,Augusta Treverorum,Roma
+Sarmicegetusa,0.0,1.0,Carnunto
+Roma,-1.0,0.0,Carnunto,Cartago
+Cartago,-1.0,-1.0,Roma,Mar Mediterrâneo
+Mar Mediterrâneo,0.0,-1.0,Cartago,Pérgamo,Cirene
+Cirene,0.0,-2.0,Mar Mediterrâneo,Alexandria
+Alexandria,1.0,-2.0,Cirene,Pérgamo
+Pérgamo,1.0,-1.0,Mar Mediterrâneo,Alexandria,Palmira
+Palmira,2.0,-1.0,Pérgamo,Mar Negro
+Mar Negro,2.0,0.0,Palmira

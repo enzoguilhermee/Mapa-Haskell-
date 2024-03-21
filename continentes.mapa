@@ -1,0 +1,6 @@
+América,-1.0,0.0,África
+África,0.0,0.0,América,Europa,Oceania,Antártida
+Europa,0.0,1.0,Ásia,África
+Ásia,1.0,1.0,Europa,Oceania
+Oceania,1.0,0.0,Ásia,África
+Antártida,0.0,-1.0,África
